@@ -1,0 +1,20 @@
+@import '../../Styles/variables';
+
+.tags-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+
+  .tag {
+    background-color: $divider-color;
+    border: none;
+    border-radius: 3px;
+    font-size: 0.6em;
+    font-weight: 200;
+    width: auto;
+    display: inline-block;
+    padding: 2px 5px;
+    margin: 2px;
+    color: $text-primary-color;
+  }
+}

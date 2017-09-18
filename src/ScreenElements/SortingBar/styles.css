@@ -1,0 +1,9 @@
+.sorting-bar-wrapper {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center; }
+  .sorting-bar-wrapper .form-group {
+    margin: 0;
+    display: inline-block;
+    width: 60%; }
