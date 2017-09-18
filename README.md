@@ -13,3 +13,7 @@ git clone https://github.com/verybluebot/react-assignment.git
 4. run `npm start`
 
 5. open browser (should open automatically) on `localhost:3000`
+
+## License 
+[MIT](https://github.com/verybluebot/react-assignment/blob/master/LICENSE)
+
